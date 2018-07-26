@@ -85,6 +85,26 @@ body {
     padding: 20px;
 }
 
+.img1 {
+    background-image: url("images/New York.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height:20em;
+}
+
+.img2 {
+    background-image: url("images/Paris.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height:20em;
+}
+/* Profile photo */
+.profile-photo {
+    background-image: url("images/Manu.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
 /* Add a card effect for articles */
 .card {
     background-color: white;
